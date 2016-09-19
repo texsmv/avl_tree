@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1474292203 source:/home/texs/Documents/UNSA/Cursos/AED/Arboles/main.cpp
+	<iostream>
+	"Binary_tree.h"
+	"avl_tree.h"
+
+1472740083 source:/home/texs/Documents/UNSA/Cursos/AED/Arboles/src/Binary_tree.cpp
+	"Binary_tree.h"
+
+1473894934 /home/texs/Documents/UNSA/Cursos/AED/Arboles/include/Binary_tree.h
+	"NodoT.h"
+	"Pila.h"
+	"Cola.h"
+
+1473818615 /home/texs/Documents/UNSA/Cursos/AED/Arboles/include/NodoT.h
+	<iostream>
+
+1472739868 source:/home/texs/Documents/UNSA/Cursos/AED/Arboles/src/NodoT.cpp
+	"NodoT.h"
+
+1472746398 source:/home/texs/Documents/UNSA/Cursos/AED/Arboles/src/binary_tree2.cpp
+	"binary_tree2.h"
+
+1472746256 /home/texs/Documents/UNSA/Cursos/AED/Arboles/include/binary_tree2.h
+
+1472746398 source:/home/texs/Documents/UNSA/Cursos/AED/Arboles/src/NodoT2.cpp
+	"NodoT2.h"
+
+1474215063 /home/texs/Documents/UNSA/Cursos/AED/Arboles/include/NodoT2.h
+
+1473218305 source:/home/texs/Documents/UNSA/Cursos/AED/Arboles/src/Nodo.cpp
+	"Nodo.h"
+
+1473895392 /home/texs/Documents/UNSA/Cursos/AED/Arboles/include/Nodo.h
+	<iostream>
+
+1473218305 source:/home/texs/Documents/UNSA/Cursos/AED/Arboles/src/Pila.cpp
+	"Pila.h"
+
+1473220446 /home/texs/Documents/UNSA/Cursos/AED/Arboles/include/Pila.h
+	"Nodo.h"
+
+1473221753 /home/texs/Documents/UNSA/Cursos/AED/Arboles/include/Cola.h
+	"Nodo.h"
+
+1473221190 source:/home/texs/Documents/UNSA/Cursos/AED/Arboles/src/Cola.cpp
+	"Cola.h"
+
+1473818411 source:/home/texs/Documents/UNSA/Cursos/AED/Arboles/src/avl_tree.cpp
+	"avl_tree.h"
+
+1474292408 /home/texs/Documents/UNSA/Cursos/AED/Arboles/include/avl_tree.h
+	"NodoT.h"
+	"NodoT2.h"
+	"Cola.h"
+
